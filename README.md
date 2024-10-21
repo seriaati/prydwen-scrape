@@ -1,2 +1,2 @@
-# prydwen-py
- Async API wrapper for prydwen.gg written in Python
+# prydwen-scrape
+ prydwen.gg content scraper written in Python
